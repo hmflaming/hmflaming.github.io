@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hantonm.com/"/>
-  <updated>2019-08-26T04:22:02.714Z</updated>
+  <updated>2019-08-26T15:57:45.812Z</updated>
   <id>http://hantonm.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我与annabel（一）</title>
+    <link href="http://hantonm.com/2019/08/26/%E6%88%91%E4%B8%8Eannabel%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://hantonm.com/2019/08/26/我与annabel（一）/</id>
+    <published>2019-08-26T15:55:26.000Z</published>
+    <updated>2019-08-26T15:57:45.812Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; —写完就睡觉&lt;br&gt;  annabel虽然是个洋文名字，但若是见了真面目才会发现她既不是金发，也没有碧眼，只不过是个普普通通的中国女人罢了，说她是女人，其实也不过18岁，名字中带有一乐字，
+    
+    </summary>
+    
+    
+      <category term="瞎几把写" scheme="http://hantonm.com/tags/%E7%9E%8E%E5%87%A0%E6%8A%8A%E5%86%99/"/>
+    
+      <category term="感想" scheme="http://hantonm.com/tags/%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>“相当”</title>
@@ -30,9 +50,9 @@
     </summary>
     
     
-      <category term="翻译" scheme="http://hantonm.com/tags/%E7%BF%BB%E8%AF%91/"/>
-    
       <category term="感想" scheme="http://hantonm.com/tags/%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="翻译" scheme="http://hantonm.com/tags/%E7%BF%BB%E8%AF%91/"/>
     
   </entry>
   
