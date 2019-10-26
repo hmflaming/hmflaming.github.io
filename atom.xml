@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hantonm.com/"/>
-  <updated>2019-10-04T15:09:06.359Z</updated>
+  <updated>2019-10-26T15:56:41.732Z</updated>
   <id>http://hantonm.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最近使用工具总结与推荐</title>
+    <link href="http://hantonm.com/2019/10/26/%E6%9C%80%E8%BF%91%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%E6%80%BB%E7%BB%93%E4%B8%8E%E6%8E%A8%E8%8D%90/"/>
+    <id>http://hantonm.com/2019/10/26/最近使用工具总结与推荐/</id>
+    <published>2019-10-26T15:53:31.000Z</published>
+    <updated>2019-10-26T15:56:41.732Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;定期总结一下自己最近觉得好用的工具，直列名称及其好处，使用方法请自行搜索（因为要说清楚要加上图片，但是我不会啊w(ﾟДﾟ)w）。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;anki&lt;br&gt;主要用来记忆知识点，可以同在线词典助手（以下有介绍）结合使用在阅读时划出生词导入，同样可以结合kindle中将kindle中查出来的词语导入。详细使用教程可以在知乎【anki专栏】查看。
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="http://hantonm.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>学习之余如何放松</title>
