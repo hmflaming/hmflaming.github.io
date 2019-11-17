@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hantonm.com/"/>
-  <updated>2019-11-10T01:16:03.249Z</updated>
+  <updated>2019-11-17T15:37:25.490Z</updated>
   <id>http://hantonm.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>思考---内容、计划性、化繁为简</title>
+    <link href="http://hantonm.com/2019/11/17/%E6%80%9D%E8%80%83-%E5%86%85%E5%AE%B9%E3%80%81%E8%AE%A1%E5%88%92%E6%80%A7%E3%80%81%E5%8C%96%E7%B9%81%E4%B8%BA%E7%AE%80/"/>
+    <id>http://hantonm.com/2019/11/17/思考-内容、计划性、化繁为简/</id>
+    <published>2019-11-17T15:06:50.000Z</published>
+    <updated>2019-11-17T15:37:25.490Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;思考—内容、计划性、化繁为简&quot;&gt;&lt;a href=&quot;#思考—内容、计划性、化繁为简&quot; class=&quot;headerlink&quot; title=&quot;思考—内容、计划性、化繁为简&quot;&gt;&lt;/a&gt;思考—内容、计划性、化繁为简&lt;/h1&gt;&lt;h3 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h3&gt;&lt;p&gt;  以前在学习语言的时候，通常会死记硬背一些语法，然后就去做题，这样做往往会导致一种太过于注重表面语法而不能深入理解所学语言背后隐藏的一种思维模式。比如在说德语“我们要掷骰子”，这句话的时候，为了突出“骰子”这个词，我们往往会说：&lt;br&gt;  &lt;strong&gt;Den Würfel werden wir werfen.&lt;/strong&gt;
+    
+    </summary>
+    
+    
+      <category term="感想" scheme="http://hantonm.com/tags/%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>相见恨晚-一个短篇-Kidney</title>
@@ -116,9 +134,9 @@
     </summary>
     
     
-      <category term="翻译" scheme="http://hantonm.com/tags/%E7%BF%BB%E8%AF%91/"/>
-    
       <category term="感想" scheme="http://hantonm.com/tags/%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="翻译" scheme="http://hantonm.com/tags/%E7%BF%BB%E8%AF%91/"/>
     
   </entry>
   
