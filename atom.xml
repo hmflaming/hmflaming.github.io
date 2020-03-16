@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hantonm.com/"/>
-  <updated>2020-01-30T05:18:04.274Z</updated>
+  <updated>2020-03-16T06:16:20.955Z</updated>
   <id>http://hantonm.com/</id>
   
   <author>
@@ -17,11 +17,61 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>给电脑加内存</title>
+    <link href="http://hantonm.com/2020/03/16/%E7%BB%99%E7%94%B5%E8%84%91%E5%8A%A0%E5%86%85%E5%AD%98/"/>
+    <id>http://hantonm.com/2020/03/16/给电脑加内存/</id>
+    <published>2020-03-16T06:16:20.000Z</published>
+    <updated>2020-03-16T06:16:20.955Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>kindle阅读网页及公众号内容</title>
+    <link href="http://hantonm.com/2020/03/16/kindle%E9%98%85%E8%AF%BB%E7%BD%91%E9%A1%B5%E5%8F%8A%E5%85%AC%E4%BC%97%E5%8F%B7%E5%86%85%E5%AE%B9/"/>
+    <id>http://hantonm.com/2020/03/16/kindle阅读网页及公众号内容/</id>
+    <published>2020-03-16T06:14:13.000Z</published>
+    <updated>2020-03-16T08:15:19.816Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;  经常使用电脑阅读，难免会眼睛干涩，不如通过网页拓展推送到kindle，护眼健康。
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="http://hantonm.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Denken, fasten, warten.</title>
+    <link href="http://hantonm.com/2020/03/16/Denken,%20fasten,%20warten./"/>
+    <id>http://hantonm.com/2020/03/16/Denken, fasten, warten./</id>
+    <published>2020-03-16T06:10:48.000Z</published>
+    <updated>2020-03-16T08:14:53.517Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;​    悉达多和果文达离开了家乡，放弃了优裕的婆罗门生活，到森林中追随僧侣，吃斋，打坐，静修。这时的悉达多厌恶俗人的庸庸碌碌生活，他想要解脱，他想要通过追随僧侣寻找自由。
+    
+    </summary>
+    
+    
+      <category term="感想" scheme="http://hantonm.com/tags/%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何才能抵达此地——《葬礼》乐评</title>
     <link href="http://hantonm.com/2020/01/30/%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E6%8A%B5%E8%BE%BE%E6%AD%A4%E5%9C%B0%E2%80%94%E2%80%94%E3%80%8A%E8%91%AC%E7%A4%BC%E3%80%8B%E4%B9%90%E8%AF%84/"/>
     <id>http://hantonm.com/2020/01/30/如何才能抵达此地——《葬礼》乐评/</id>
     <published>2020-01-30T05:15:31.000Z</published>
-    <updated>2020-01-30T05:18:04.274Z</updated>
+    <updated>2020-03-16T06:12:04.694Z</updated>
     
     <summary type="html">
     
@@ -31,21 +81,11 @@
     </summary>
     
     
-      <category term="翻译，乐评，pitchfork" scheme="http://hantonm.com/tags/%E7%BF%BB%E8%AF%91%EF%BC%8C%E4%B9%90%E8%AF%84%EF%BC%8Cpitchfork/"/>
+      <category term="翻译" scheme="http://hantonm.com/tags/%E7%BF%BB%E8%AF%91/"/>
     
-  </entry>
-  
-  <entry>
-    <title>《悉达多》读书笔记</title>
-    <link href="http://hantonm.com/2020/01/29/%E3%80%8A%E6%82%89%E8%BE%BE%E5%A4%9A%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    <id>http://hantonm.com/2020/01/29/《悉达多》读书笔记/</id>
-    <published>2020-01-29T01:08:48.000Z</published>
-    <updated>2020-01-29T01:08:48.175Z</updated>
+      <category term="乐评" scheme="http://hantonm.com/tags/%E4%B9%90%E8%AF%84/"/>
     
-    <summary type="html">
-    
-    </summary>
-    
+      <category term="pitchfork" scheme="http://hantonm.com/tags/pitchfork/"/>
     
   </entry>
   
@@ -173,9 +213,9 @@
     </summary>
     
     
-      <category term="翻译" scheme="http://hantonm.com/tags/%E7%BF%BB%E8%AF%91/"/>
-    
       <category term="感想" scheme="http://hantonm.com/tags/%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="翻译" scheme="http://hantonm.com/tags/%E7%BF%BB%E8%AF%91/"/>
     
   </entry>
   
